@@ -2,8 +2,8 @@
 
 **最后更新日期 / Last Updated: 2026年5月22日**
 
-[Go Translate Al Pro] 非常重视您的隐私。本隐私政策说明了我们在您使用本应用时如何收集、使用和保护您的信息。
-[Go Translate Al Pro] takes your privacy seriously. This Privacy Policy explains how we collect, use, and protect your information when you use this application.
+[Go Translate Al] 非常重视您的隐私。本隐私政策说明了我们在您使用本应用时如何收集、使用和保护您的信息。
+[Go Translate Al] takes your privacy seriously. This Privacy Policy explains how we collect, use, and protect your information when you use this application.
 
 ### 1. 信息收集与使用 / Data Collection and Usage
 - **同声传译与翻译数据 / Interpretation & Translation Data**: 
